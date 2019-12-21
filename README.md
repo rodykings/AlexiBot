@@ -18,6 +18,7 @@
   <td><b>*exams <mieic year(1-5)></b></td>
   <td>Gives a table of the exams<br>
  </tr> 
+</table>
 
 ## Libraries
  - <a href="https://pypi.org/project/feupy/">feupy</a> - credit to Daniel Monteiro
